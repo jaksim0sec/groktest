@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "늘밤",
+      "hasCanvas": true,
+      "bodyTextLen": 78,
+      "bodyTextHash": "593b37747e2ce2abe45717a311db9aa249d3d582b705c670076ca3ef9daddde3",
+      "bodyTextPrefix": "서림역 지하상가 · B1 늘밤 폐점 이후의 당직. 사람은 없고, 매장만 켜져 있다. 조명을 켜는 중 왼쪽에서 걷고,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "늘밤",
+      "hasCanvas": true,
+      "bodyTextLen": 78,
+      "bodyTextHash": "593b37747e2ce2abe45717a311db9aa249d3d582b705c670076ca3ef9daddde3",
+      "bodyTextPrefix": "서림역 지하상가 · B1 늘밤 폐점 이후의 당직. 사람은 없고, 매장만 켜져 있다. 조명을 켜는 중 왼쪽에서 걷고,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
